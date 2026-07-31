@@ -1,0 +1,9 @@
+version=0.7.7.1
+format=gcup
+file=update.gcup
+size=16735714
+sha256=7ec630ca8cd5891f0a5fc94b5d91308c3f3720d8f0b74e2167827fa8c88ab4fb
+sig=BTk6Ez2rdIQGi/zIW0Whyt3p+LHT6a7yJFlOm3MHPapxwxAUrkz/mfehchAsmHqGwZxPEEeBQquHnr1FvdirCg==
+url=update.gcup
+file.csgo_gc/csgo_gc.so=1d2b5b2840f511f50ebb359d12570b1e3b2f64e58253081a618c5b0903bfdfd4
+file.srcds_linux=6684e7a9a1b326f0054586b089927555287f679366eb57847d514f1aa3e55bdb
