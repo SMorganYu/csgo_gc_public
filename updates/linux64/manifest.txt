@@ -1,0 +1,9 @@
+version=0.7.7.2.4
+format=gcup
+file=update.gcup
+size=20000635
+sha256=093e3f33a7053d7c6d9f97357de41fa51fe76bc445c95298769ba29e037de56f
+sig=bIMzNdUa+udKD/1LLOSy/B8hKxAxoHUhmLVVRTyxOSc8V+5UPuo2WV/x1orvljp/MZaz+4PZ59qHClw7zZp9AA==
+url=update.gcup
+file.csgo_gc/linux64/csgo_gc.so=4604743c3e17fc987a08ba77737c5fb7bd020cc1f64cd3649c673da33adb3dca
+file.csgo_linux64=1cce2dd51f23d8cb4ce395d8350f0b0d39793e3a8a57bb687b1fd35336eacf7c
