@@ -1,9 +1,9 @@
 version=0.7.7.2.77
 format=gcup
 file=update.gcup
-size=33525634
-sha256=d129df84d34276bf46bfbe1d47f3f1200d8981525e8bd83a80d877d6da2552f7
-sig=bAjcwh1Lb7IAtykmIIheC3wFXKhEDsQeujSOSyf9AbmJAL5EvP+hf1D7tEzEHC1TK6Mmg/L4kcIP2p9uLQymDQ==
+size=33524258
+sha256=c9bd763962b66ee0963ebe033a4a0eb675c67dcd9bbaee8ec438904bd88a5c4a
+sig=qyE3+oNDshm1oi0rQaQLI4r2HCPIq/4nrAnym9nLs2j2C2hvhyAS2gOTV+MecUit6DHzx+UZwlvORpVCTbaBDw==
 url=update.gcup
 file.csgo.exe=a51c84253fdf137032b23c668e15d709c8463e511768da4a448a930b86ad996d
 file.csgo_gc/csgo_gc.dll=c7d941bb78f5bbd61d907906b740113863367fcd96418c6dd2ee4567af54622f
@@ -12,4 +12,3 @@ file.csgo/panorama/code.pbin=6f44c4599e4619f854ae3ff307c46b185a62b16fcc150a53254
 file.bin/panorama.dll=10b25d5b7a7183e6505c2bc537f3f6645b7067285d6833b1fac112c1bcf54558
 file.csgo/resource/csgo_gc_english.txt=edddcc7415e14bdb3153de85419db828afcdacb06f8f717a1e11c2ad55c26e84
 file.csgo/resource/csgo_gc_russian.txt=18b5ec79a32c8e755b86ffbdbd32f9c83a5d984e7e2e96a083933da3443f5152
-file.licenses/LICENSE-csgo_gc.txt=1fa101130e0193970115ffc065a3d406eca64fc041ae22312653bdcd3e20e734
