@@ -1,9 +1,9 @@
 version=0.7.7.2.77
 format=gcup
 file=update.gcup
-size=71593747
-sha256=d9ad0f4901472170fffb7f57d707c45c6c034c3616b3e0e690401885764b4a54
-sig=XPas/HWYNn5+sTFBuBhEfNmcKt4pL3FfGCSJ1ZTZQOu8l81xPMoe90uturGspuXvD+2AvzGlxXTC44wOswpQBw==
+size=71592371
+sha256=e388559b413e2ef9d10b0c3f23012089e1ff7ee26564fb607e08e3b67de1b3bc
+sig=1T+T6HMfirE7Z7veV4bOKY+AXH2cwqUddZClQa6oh4JJoegR4tVu30I40FljdCPcqcD+1U9c6+34zCDQOof4Cg==
 url=update.gcup
 file.csgo_linux64=b4362f8b341b198ae9d667cb00a007d7ce6e6257af17fbfd27face0d9329af05
 file.csgo_gc/linux64/csgo_gc.so=ac57a90cf69760415977146defb91b09b865719488471678314940c71e3e1617
@@ -16,4 +16,3 @@ file.csgo/resource/csgo_gc_russian.txt=18b5ec79a32c8e755b86ffbdbd32f9c83a5d984e7
 file.csgo/panorama/localization/csgo_gc_english.txt=edddcc7415e14bdb3153de85419db828afcdacb06f8f717a1e11c2ad55c26e84
 file.csgo/panorama/localization/csgo_gc_russian.txt=18b5ec79a32c8e755b86ffbdbd32f9c83a5d984e7e2e96a083933da3443f5152
 file.bin/linux64/libtogl_client.so=7f0fb96dc45ff1a173a30fb13a0d5c2ea0a6a739d6c939ef65b735702cb20022
-file.licenses/LICENSE-csgo_gc.txt=1fa101130e0193970115ffc065a3d406eca64fc041ae22312653bdcd3e20e734
