@@ -1,12 +1,12 @@
-version=0.7.7.2.108
+version=0.7.7.2.116
 format=gcup
 file=update.gcup
-size=33780574
-sha256=472ffde5c191c68c047e69e292e95e637575a8b238289b7c9f8eec333a098383
-sig=Ed1iEx71jYZllMMASqMBPX54RkQiARn1V0i469D/OsLXAUq708UqII5JMTs3jVQEmAo2cv39OT952RJr6nvACQ==
+size=34010462
+sha256=30f2aeff1df68dcaee091fd567cf006cf3cb4c92af48a488f78e444f062505f5
+sig=Tw9rZ2Yskz2A/vJGwLECwNgvQHvLBzpe0kq/7gSssnxD+L7cVlEfQtaFBnC0pKu4c8uPv+iZ8LGxBF1tRKNcBA==
 url=update.gcup
 file.csgo.exe=a51c84253fdf137032b23c668e15d709c8463e511768da4a448a930b86ad996d
-file.csgo_gc/csgo_gc.dll=8db7857c696fd574128e638005c1116e55a84b1b9587906b99e0d8f85a6491a5
+file.csgo_gc/csgo_gc.dll=80123825cbf8e8477bec22152bb1ffe7471bfb615ec4e59dc29c4052886e02c1
 file.csgo/bin/client.dll=1725e88133c1ac58bc93968c9c2422bdf8309ab58afc4087d9e5dfb16217405f
 file.csgo/panorama/code.pbin=2e276957f91333c8b57fa64a8073cf1ed212f84e13fc8fa474cf23268286a9b0
 file.bin/panorama.dll=10b25d5b7a7183e6505c2bc537f3f6645b7067285d6833b1fac112c1bcf54558
